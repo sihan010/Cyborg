@@ -1,0 +1,8 @@
+{
+  "name": "cyborg_background",
+  "version": "0.0.1",
+  "description": "separate node js process running alongside react native",
+  "main": "main.js",
+  "author": "geminist",
+  "license": "MIT"
+}
